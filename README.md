@@ -19,11 +19,13 @@ This application is developed to track your day-to-day expenses and incomes.
 
 This application consist of 3 main pages are as follow :
 CATEGORY, TRANSACTION AND DASHBOARD. 
+
 Also consist of  Side Menu and NavBar.
 
 # How it works ?
 
-**Category : **
+**Category :**
+
 This page is use to create our own customize category for an particular transaction.
 We can choose whether this category falls under expenses or income.
 
@@ -34,6 +36,7 @@ The created Categories will appears like this :
 ![image](https://github.com/Pratikshacoder088/BudgetBuddy/assets/81643981/acf2cb46-bea3-4161-afe9-0b22ac5318d2)
 
 **Transaction :**
+
 This page is use to specify a transaction.
 
 ![image](https://github.com/Pratikshacoder088/BudgetBuddy/assets/81643981/928416c8-a63c-497e-a63e-ecab2cbe8c5d)
