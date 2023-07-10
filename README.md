@@ -26,7 +26,8 @@ Also consist of  Side Menu and NavBar.
 This page is use to create our own customize category for an particular transaction.
 We can choose whether this category falls under expenses or income.
 
-![image](https://github.com/Pratikshacoder088/BudgetBuddy/assets/81643981/797d4813-259a-4a02-839c-997d91bbe8ea)
+![image](https://github.com/Pratikshacoder088/BudgetBuddy/assets/81643981/729414ae-490e-4c65-912a-46e6f57af46c)
+
 
 The created Categories will appears like this :
 
