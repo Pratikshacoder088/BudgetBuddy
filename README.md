@@ -1,12 +1,15 @@
 # BudgetBuddy
 **BUDGETBUDDY is an EXPENSE TRACKER application DEVELOPED in ASP.NET using ASP.NET-CORE-MVC**
 This application is developed to track your day-to-day expenses and incomes.
+This application consist of 3 main pages are as follow :
+CATEGORY, TRANSACTION AND DASHBOARD. 
+Also consist of  Side Menu and NavBar.
 
 # Application Summary
 
 **Libraries used in this application:**
-* Bootstrap - https://getbootstrap.com/
-* SyncFusion - https://www.syncfusion.com/aspnet-core-ui-controls
+* [Bootstrap](https://getbootstrap.com/)
+* [SyncFusion]([https://getbootstrap.com/](https://www.syncfusion.com/aspnet-core-ui-controls)) 
 
 # Features
 * Create your own customize Category.
@@ -15,12 +18,6 @@ This application is developed to track your day-to-day expenses and incomes.
 * Provide all the transaction in the form of Graphs and Tables.
 * Easy to monitor expenses and income. 
 
-# About Application 
-
-This application consist of 3 main pages are as follow :
-CATEGORY, TRANSACTION AND DASHBOARD. 
-
-Also consist of  Side Menu and NavBar.
 
 # How it works ?
 
