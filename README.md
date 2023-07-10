@@ -46,6 +46,7 @@ The created Transactions will appears like this :
 ![image](https://github.com/Pratikshacoder088/BudgetBuddy/assets/81643981/e7623fd4-1ba5-4ccb-8fee-c73a98803ad3)
 
 **Dashboard :**
+
 This is the home page of the application.
 This page shows us all the transaction in the form of graphs.
 
