@@ -9,7 +9,7 @@ Also consist of  Side Menu and NavBar.
 
 **Libraries used in this application:**
 * [Bootstrap](https://getbootstrap.com/)
-* [SyncFusion]([https://getbootstrap.com/](https://www.syncfusion.com/aspnet-core-ui-controls)) 
+* [SyncFusion](https://www.syncfusion.com/aspnet-core-ui-controls)
 
 # Features
 * Create your own customize Category.
