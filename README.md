@@ -31,7 +31,8 @@ We can choose whether this category falls under expenses or income.
 
 The created Categories will appears like this :
 
-![image](https://github.com/Pratikshacoder088/BudgetBuddy/assets/81643981/acf2cb46-bea3-4161-afe9-0b22ac5318d2)
+![image](https://github.com/Pratikshacoder088/BudgetBuddy/assets/81643981/56289348-65f0-47ca-bd40-56f2dc31dc96)
+
 
 **Transaction :**
 
@@ -41,7 +42,8 @@ This page is use to specify a transaction.
 
 The created Transactions will appears like this :
 
-![image](https://github.com/Pratikshacoder088/BudgetBuddy/assets/81643981/e7623fd4-1ba5-4ccb-8fee-c73a98803ad3)
+![image](https://github.com/Pratikshacoder088/BudgetBuddy/assets/81643981/d0be11d2-7438-4554-a161-9f24bc1e1509)
+
 
 **Dashboard :**
 
